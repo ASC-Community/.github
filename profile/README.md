@@ -1,4 +1,11 @@
-# Angouri
+<h1>
+  <a href="https://angouri.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ASC-Community/.github/main/profile/branding/angouri-dark.svg">
+      <img src="https://raw.githubusercontent.com/ASC-Community/.github/main/profile/branding/angouri.svg" width="320" alt="Angouri">
+    </picture>
+  </a>
+</h1>
 
 The name *Angouri* comes from the Greek <span lang="el">αγγούρι</span>, meaning “cucumber”.
 
@@ -83,7 +90,7 @@ I’ve been programming C++ and C# for around three years, mainly working on [Mx
 
 I've been enjoying .NET since 2014, from VB.NET, then C#, now F#. I believe in automation through programming, specifically automating answering school math for checking, where [AngouriMath](https://am.angouri.org) and [CSharpMath](https://github.com/verybadcat/CSharpMath) make the most intuitive calculator app ever. However, with other commitments, like [University studies](http://www.bm.ust.hk/isom/programs-n-courses/ug-programs/bba-in-is/overview), [a startup](https://www.ictinpe.org), paid open source, and unpaid open source, excuse me for not contributing much. I'm Happypig375#2425 on Discord.
 
-[GitHub](https://github.com/Happypig375) · [Reddit](https://www.reddit.com/user/Happypig375) · [Telegram](https://t.me/Happypig375) · [E-Mail](mailto:hadrianwttang@gmail.com): hadrianwttang@gmail.com
+[GitHub](https://github.com/Happypig375) · [Reddit](https://www.reddit.com/user/Happypig375) · [Telegram](https://t.me/Happypig375) · [E-Mail](mailto:hadrianwttang@outlook.com): hadrianwttang@outlook.com
 
 ### TheSeems
 
